@@ -19,6 +19,8 @@ The vLLM QAIC plugin (`vllm-qaic`) is a dedicated unified backend extension that
 
 `vllm-qaic` supports two inference modes:
 
+
+
 | Mode | Description |
 |------|-------------|
 | **Eager Mode** | Dynamic execution via `torch-qaic` |
