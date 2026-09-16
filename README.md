@@ -11,6 +11,7 @@ vLLM Qualcomm Cloud AI (QAIC) Plugin
 > This is not a stable release.
 > For production use, please switch to the `main` branch or `release/v0.15.0`.
 
+
 ---
 
 **Qualcomm Cloud AI 100** is an AI inference accelerator designed to deliver exceptional performance and power efficiency for Large Language Models and other AI workloads. Built on Qualcomm's advanced HexNN architecture and Neural Signal Processors (NSPs), the Cloud AI 100 provides scalable, high-throughput inference capabilities optimized for enterprise and cloud deployments.
