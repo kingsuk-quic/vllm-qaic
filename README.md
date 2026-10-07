@@ -3,8 +3,6 @@ vLLM Qualcomm Cloud AI (QAIC) Plugin
 </h1>
 
 
-
-
 <p align="center">
 | <a href="https://www.qualcomm.com/artificial-intelligence/data-center"><b>Qualcomm Data Center AI</b></a> | <a href="https://qualcomm.github.io/vllm-qaic/"><b>Documentation</b></a> | <a href="https://quic.github.io/cloud-ai-sdk-pages/"><b>User Guide</b></a> | <a href="docs/installation.md"><b>Installation Guide</b></a> |
 </p>
