@@ -18,6 +18,8 @@ page. Please include the following details while reporting a vulnerability:
 - Potential impact
 - Any relevant logs or screenshots
 
+
+
 ## Coordinated Disclosure
 
 We follow a Coordinated Vulnerability Disclosure (CVD) process:
