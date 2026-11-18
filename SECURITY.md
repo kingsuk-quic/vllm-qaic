@@ -1,6 +1,7 @@
 How to Report a Potential Vulnerability?
 ========================================
 
+
 If you would like to report a public issue (for example, one with a released
 CVE number), please report it as a
 [GitHub issue](https://github.com/qualcomm/vllm-qaic/issues/new).
